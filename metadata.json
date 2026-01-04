@@ -1,0 +1,8 @@
+{
+  "name": "Smart Voice Assistant",
+  "description": "A web-based intelligent voice assistant with chat, accounting, and history features.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
